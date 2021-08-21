@@ -1,0 +1,7 @@
+We have used the datasets provided by the AI hackathon organizing team(Derbi Foundation)
+Datasets used:
+=>Chest CT-Scan images Dataset
+=>COVID19 Radiography Dataset
+=>TB
+    ChinaSet_AllFiles
+    NLM-MontgomeryCXRSet

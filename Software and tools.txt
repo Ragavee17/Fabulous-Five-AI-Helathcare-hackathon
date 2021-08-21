@@ -1,0 +1,13 @@
+Our solution has been deployed as a WEB APP
+
+DL TOOLS:
+=>Fastai
+=>resnet34
+
+PYTHON WEB INTERFACE:
+=> Gradio - It is a python module that can be used to create web interfaces
+
+*The best weights from the three models(Covid19 model, Cancer model , TB model) are saved as separate pytorch file
+*Then those pythorch files have been loades into separate three fastai resnet34 models
+*The test image is given to all the three models and the class can be detemined by using the function 'grad' in the colab notebook 'combined_final_model'
+*This can be deployed as a web app using gradio module

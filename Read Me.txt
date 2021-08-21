@@ -1,0 +1,9 @@
+1.If you want to run the three models(COVID model, Cancer model,TB model) please use the path of the dataset folder that we have shared.
+     Dataset folder name: derbi_data
+     shared from ragavee.1907035@srec.ac.in
+2.To run the combined_final_model use the path of foldres we have shared
+     Dataset folder name: derbi_data
+     shared from ragavee.1907035@srec.ac.in
+     Best model folder name:derbi_model_zip
+     shared from ragavee.1907035@srec.ac.in
+3.You can use the web app link that can be generated from the combined_final_model colab notebook     

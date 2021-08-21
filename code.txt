@@ -1,0 +1,17 @@
+COVID19 model:
+       =>The model is built using fastai resnet34. 
+       =>The model will classify the images into COVID or normal images
+CANCER model:
+       =>The model is built using fastai resnet34. 
+       =>The model will classify the images into adenocarcinoma, larger cell carcinoma,squamous cell carcinoma or normal images
+TB model:
+       =>The model is built using fastai resnet34.
+       =>The model will classify the imag into normal or Tuberculosis image.
+Combined final model:
+       =>The best weights obtained from the above three models are loaded here as separate three resnet34 models
+       =>The test image is given to all the three models
+       =>The probability of prediction of all the three models are stored in a list
+       =>By accessing the index of the highest probability the class of the image can be predicted
+       =>Now the findings is deployed as web app using gradio
+Web app link: https://48585.gradio.app
+This will be activate till  5.45 pm, August 22,2021
